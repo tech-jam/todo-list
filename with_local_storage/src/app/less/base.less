@@ -1,0 +1,57 @@
+@import './variables.less';
+
+body {
+  font-family: "Museo Sans", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  overflow-x: hidden;
+}
+
+html, body {
+  height: 100%;
+}
+
+body.full-height-layout #wrapper,
+body.full-height-layout #page-wrapper {
+  height: 100%;
+}
+
+#page-wrapper {
+  min-height: auto;
+}
+
+.completed-true {
+	text-decoration: line-through;
+	color: grey;
+}
+.content-center {
+	text-align: center;
+}
+
+// HOME PAGE
+.add-items {
+	margin-bottom: 1.5rem;
+	overflow: hidden
+}
+
+.d-flex {
+	display: flex !important
+}
+
+.add-items input[type="text"] {
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+	width: 100%;
+	background: transparent
+}
+
+.add-items .btn {
+	margin-left: .5rem;
+}
+
+.todo-list-container {
+	margin-top: 50px;
+}
+
+.form-todo-list {
+	width: 100%;
+}

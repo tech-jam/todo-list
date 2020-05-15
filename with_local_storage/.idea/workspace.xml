@@ -1,0 +1,1970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d420381-da11-43e4-88ee-f5edf913f03b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1PoasZCzOmoBHp8ui8AFdz3hi2y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jobmate/ionic" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/main/modals" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d420381-da11-43e4-88ee-f5edf913f03b" name="Default Changelist" comment="" />
+      <created>1566543109951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566543109951</updated>
+      <workItem from="1566543111092" duration="5206000" />
+      <workItem from="1566552886336" duration="5802000" />
+      <workItem from="1566564529649" duration="364000" />
+      <workItem from="1566565065578" duration="144000" />
+      <workItem from="1566565266049" duration="1344000" />
+      <workItem from="1566567554059" duration="18851000" />
+      <workItem from="1567083972581" duration="610000" />
+      <workItem from="1567150757925" duration="33793000" />
+      <workItem from="1568196283586" duration="751000" />
+      <workItem from="1568363622308" duration="20649000" />
+      <workItem from="1568808269838" duration="26969000" />
+      <workItem from="1569222750596" duration="37539000" />
+      <workItem from="1570435607361" duration="5448000" />
+      <workItem from="1570605757332" duration="6277000" />
+      <workItem from="1570694909204" duration="4428000" />
+      <workItem from="1570776528239" duration="1515000" />
+      <workItem from="1570794438861" duration="111000" />
+      <workItem from="1571037701031" duration="2852000" />
+      <workItem from="1571128971666" duration="428000" />
+      <workItem from="1571131675471" duration="246000" />
+      <workItem from="1571135239153" duration="1758000" />
+      <workItem from="1571211651469" duration="188000" />
+      <workItem from="1571230610954" duration="3027000" />
+      <workItem from="1571234221058" duration="2867000" />
+      <workItem from="1571294930020" duration="1457000" />
+      <workItem from="1571300523751" duration="26865000" />
+      <workItem from="1571416230092" duration="4883000" />
+      <workItem from="1571642021209" duration="34206000" />
+      <workItem from="1572341924238" duration="13658000" />
+      <workItem from="1572858172945" duration="15638000" />
+      <workItem from="1574066736784" duration="637000" />
+      <workItem from="1574081556972" duration="2570000" />
+      <workItem from="1574417112267" duration="515000" />
+      <workItem from="1574417655357" duration="1594000" />
+      <workItem from="1574670724108" duration="1050000" />
+      <workItem from="1574675293999" duration="2183000" />
+      <workItem from="1574757086990" duration="46191000" />
+      <workItem from="1575381463833" duration="1216000" />
+      <workItem from="1575619551541" duration="4869000" />
+      <workItem from="1575708852210" duration="1808000" />
+      <workItem from="1575878723114" duration="605000" />
+      <workItem from="1576144372697" duration="3382000" />
+      <workItem from="1576571226199" duration="7639000" />
+      <workItem from="1577369358866" duration="314000" />
+      <workItem from="1577530584265" duration="125000" />
+      <workItem from="1579610020636" duration="2795000" />
+      <workItem from="1579697396665" duration="20000" />
+      <workItem from="1579697744477" duration="633000" />
+      <workItem from="1579772081310" duration="19000" />
+      <workItem from="1579776653584" duration="256000" />
+      <workItem from="1580132822179" duration="742000" />
+      <workItem from="1580729868659" duration="9367000" />
+      <workItem from="1580812243190" duration="1913000" />
+      <workItem from="1580986105923" duration="5818000" />
+      <workItem from="1581504929700" duration="19386000" />
+      <workItem from="1582189065369" duration="3405000" />
+      <workItem from="1582193396940" duration="17495000" />
+      <workItem from="1583154082147" duration="6422000" />
+      <workItem from="1583506537587" duration="853000" />
+      <workItem from="1584348662320" duration="9776000" />
+      <workItem from="1585037028388" duration="13000" />
+      <workItem from="1589441595893" duration="32000" />
+      <workItem from="1589441801000" duration="69000" />
+      <workItem from="1589442040427" duration="33000" />
+      <workItem from="1589442983223" duration="46000" />
+      <workItem from="1589443161643" duration="1409000" />
+    </task>
+    <task id="LOCAL-00049" summary="SW-4897: remove disable save button for iot devices">
+      <created>1571235567362</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1571235567362</updated>
+    </task>
+    <task id="LOCAL-00050" summary="SW-4897: remove disable save button for iot devices">
+      <created>1571235599428</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1571235599428</updated>
+    </task>
+    <task id="LOCAL-00051" summary="SW-4897: remove disable save button for iot devices">
+      <created>1571235711201</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1571235711201</updated>
+    </task>
+    <task id="LOCAL-00052" summary="SW-4897: fixed save button for legacy device">
+      <created>1571295061418</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1571295061419</updated>
+    </task>
+    <task id="LOCAL-00053" summary="SW-4897: fixed device offline icon">
+      <created>1571297366216</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1571297366216</updated>
+    </task>
+    <task id="LOCAL-00054" summary="SW-4940">
+      <created>1571642996376</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1571642996376</updated>
+    </task>
+    <task id="LOCAL-00055" summary="fix husky">
+      <created>1571643219364</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1571643219364</updated>
+    </task>
+    <task id="LOCAL-00056" summary="test commit">
+      <created>1571643244708</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1571643244708</updated>
+    </task>
+    <task id="LOCAL-00057" summary="SW-4970: New table: attribute_category">
+      <created>1571657931036</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1571657931036</updated>
+    </task>
+    <task id="LOCAL-00058" summary="SW-4940: use attribute_category table for equipment category with flag equipment.">
+      <created>1571754957951</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1571754957951</updated>
+    </task>
+    <task id="LOCAL-00059" summary="SW-4940: code cleanup">
+      <created>1571764779431</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1571764779431</updated>
+    </task>
+    <task id="LOCAL-00060" summary="SW-4984: Legacy. Device Shadow. Duplicates in desired.">
+      <created>1571819268984</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1571819268984</updated>
+    </task>
+    <task id="LOCAL-00061" summary="SW-4984: Legacy. Device Shadow. Duplicates in desired.">
+      <created>1571840560865</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1571840560865</updated>
+    </task>
+    <task id="LOCAL-00062" summary="SW-4991: Create equipment_category table">
+      <created>1572443677682</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1572443677682</updated>
+    </task>
+    <task id="LOCAL-00063" summary="SW-5027: Venue schedule. Can't set end time &gt; 12 AM (midnight)">
+      <created>1572945624196</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1572945624196</updated>
+    </task>
+    <task id="LOCAL-00064" summary="SW-5027: Venue schedule. Can't set end time &gt; 12 AM (midnight)">
+      <created>1572948377583</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1572948377583</updated>
+    </task>
+    <task id="LOCAL-00065" summary="SW-5118: Venue: Schedule tab improvements">
+      <created>1574780988453</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1574780988454</updated>
+    </task>
+    <task id="LOCAL-00066" summary="SW-5132: Activity Log on a phone:  Number pushes not shown">
+      <created>1574848968448</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1574848968448</updated>
+    </task>
+    <task id="LOCAL-00067" summary="SW-5118: check Taps for button &quot;assign stations&quot;">
+      <created>1574850326385</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1574850326385</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Merge branch 'SW-5132' into testing&#10;&#10;# Conflicts:&#10;#&#9;src/app/less/portal_pages.less">
+      <created>1574856577963</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1574856577963</updated>
+    </task>
+    <task id="LOCAL-00069" summary="SW-5133: Device screen: Environment change is allowed only to devices mapped to a station">
+      <created>1575011486315</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1575011486315</updated>
+    </task>
+    <task id="LOCAL-00070" summary="SW-5133: Device screen: Environment change is allowed only to devices mapped to a station">
+      <created>1575034935044</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1575034935045</updated>
+    </task>
+    <task id="LOCAL-00071" summary="SW-5133: Device screen: Environment change is allowed only to devices mapped to a station">
+      <created>1575035892976</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1575035892980</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Merge branch 'SW-5133' into testing&#10;&#10;# Conflicts:&#10;#&#9;src/app/less/portal_pages.less">
+      <created>1575273724189</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1575273724189</updated>
+    </task>
+    <task id="LOCAL-00073" summary="SW-5133: fixed actionQueue status">
+      <created>1575276358758</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1575276358758</updated>
+    </task>
+    <task id="LOCAL-00074" summary="SW-5133: fixed tooltip.">
+      <created>1575277044407</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1575277044407</updated>
+    </task>
+    <task id="LOCAL-00075" summary="SW-5133: disable change env select.">
+      <created>1575281478925</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1575281478925</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Merge branch 'SW-5133' into staging&#10;&#10;# Conflicts:&#10;#&#9;src/app/less/portal_pages.less">
+      <created>1575287020772</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1575287020772</updated>
+    </task>
+    <task id="LOCAL-00077" summary="SW-5133: tooltip fix.">
+      <created>1575291317612</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1575291317612</updated>
+    </task>
+    <task id="LOCAL-00078" summary="SW-5221: Hotfix. Device screen. Unable to create a new device.">
+      <created>1576571815782</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1576571815782</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Merge branch 'SW-5176' into testing&#10;&#10;# Conflicts:&#10;#&#9;src/app/main/station/tap/tap-component.js">
+      <created>1577369641903</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1577369641903</updated>
+    </task>
+    <task id="LOCAL-00080" summary="testing-with-gg-logs: added update shadow log.">
+      <created>1580733131910</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1580733131910</updated>
+    </task>
+    <task id="LOCAL-00081" summary="testing-with-gg-logs: added update shadow log.">
+      <created>1580736065118</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1580736065118</updated>
+    </task>
+    <task id="LOCAL-00082" summary="testing-with-gg-logs: added update shadow log.">
+      <created>1580739805885</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1580739805885</updated>
+    </task>
+    <task id="LOCAL-00083" summary="testing-with-gg-logs: added update shadow log.">
+      <created>1580745381644</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1580745381644</updated>
+    </task>
+    <task id="LOCAL-00084" summary="testing-with-gg-logs: remove shadow-gg logs.">
+      <created>1580826110612</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1580826110613</updated>
+    </task>
+    <task id="LOCAL-00085" summary="SW-5413: Hotfix. Activity Log. Collapse buttons do  not work">
+      <created>1581935747108</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1581935747108</updated>
+    </task>
+    <task id="LOCAL-00086" summary="SW-5430: Station - Beverage: Issues with Interupted pour. Validation message absent">
+      <created>1582123168881</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1582123168881</updated>
+    </task>
+    <task id="LOCAL-00087" summary="SW-5430: code refactoring">
+      <created>1582124867921</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1582124867921</updated>
+    </task>
+    <task id="LOCAL-00088" summary="SW-5430: code refactoring">
+      <created>1582125327567</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1582125327567</updated>
+    </task>
+    <task id="LOCAL-00089" summary="SW-5432: Hotfix: Activity Log on a phone - tooltip on Opcode is not shown">
+      <created>1582192652947</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1582192652948</updated>
+    </task>
+    <task id="LOCAL-00090" summary="SW-5406: round fixes for keg type">
+      <created>1582290027658</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1582290027658</updated>
+    </task>
+    <task id="LOCAL-00091" summary="SW-5451: Hotfix. Activity log phone display.  Device is shown incorrectly">
+      <created>1582533314762</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1582533314762</updated>
+    </task>
+    <task id="LOCAL-00092" summary="SW-5406: applied rounding only to oz.">
+      <created>1582535000835</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1582535000836</updated>
+    </task>
+    <task id="LOCAL-00093" summary="SW-5406: code cleanup">
+      <created>1582536265291</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1582536265291</updated>
+    </task>
+    <task id="LOCAL-00094" summary="SW-5406: fixed round pour time for the all analytic charts.">
+      <created>1582623837210</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1582623837210</updated>
+    </task>
+    <task id="LOCAL-00095" summary="SW-5495: FUP  Screen. Allow overlapping periods.">
+      <created>1584432641760</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1584432641760</updated>
+    </task>
+    <task id="LOCAL-00096" summary="SW-5526: User screen. Make &quot;Login&quot; field editable">
+      <created>1584433795522</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1584433795522</updated>
+    </task>
+    <task id="LOCAL-00097" summary="SW-5453: FUP. Screen. Incorrect message on the pop-up">
+      <created>1584438042169</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1584438042176</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbCountyAll.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbCountyAll.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbTimezone.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbTimezone.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20067.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20067.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20074.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20074.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20068.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20068.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/TimezoneApi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/TimezoneApi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20072.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20072.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbDeviceVersion.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbDeviceVersion.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/RoleCustomerPersonApi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/RoleCustomerPersonApi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/CountyAllApi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/CountyAllApi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20062.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20062.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbRoleStationPerson.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbRoleStationPerson.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20065.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20065.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DeviceVersionApi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DeviceVersionApi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/CountyAllLookupApi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/CountyAllLookupApi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbRoleVenuePerson.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbRoleVenuePerson.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbCountyAllLookup.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbCountyAllLookup.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20071.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20071.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/StateAllApi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/StateAllApi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbLandingPage.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbLandingPage.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/RoleStationPersonApi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/RoleStationPersonApi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20063.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20063.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbStateAll.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbStateAll.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20070.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20070.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbAction.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbAction.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbRoleCustomerPerson.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbRoleCustomerPerson.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20073.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20073.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/RoleActionApi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/RoleActionApi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20069.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20069.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20066.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20066.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/ActionApi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/ActionApi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbRoleAction.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/DbRoleAction.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/LandingPageApi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/LandingPageApi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/RoleVenuePersonApi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/RoleVenuePersonApi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20064.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/API/Client/InlineResponse20064.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/api/IntakeApi.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/api/IntakeApi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/api/IntakeApi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/api/AuthenticateApi.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/api/AuthenticateApi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/api/AuthenticateApi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/api/DbApi.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/api/DbApi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/api/DbApi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverage.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverage.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverage.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFobConfiguration.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFobConfiguration.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFobConfiguration.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScopeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScopeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScopeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsTransactionLogCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsTransactionLogCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsTransactionLogCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceShadow.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceShadow.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceShadow.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSensorType.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSensorType.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSensorType.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCategorySizeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCategorySizeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCategorySizeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueDeviceCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueDeviceCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueDeviceCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountyAll.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountyAll.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountyAll.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbKegType.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbKegType.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbKegType.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageDelivery.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageDelivery.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageDelivery.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorCodeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorCodeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorCodeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosTransaction.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosTransaction.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosTransaction.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsTransactionLog.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsTransactionLog.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsTransactionLog.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageBrandCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageBrandCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageBrandCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceLineCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceLineCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceLineCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceConnectivityLogCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceConnectivityLogCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceConnectivityLogCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleGroupPerson.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleGroupPerson.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleGroupPerson.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceHeartbeat.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceHeartbeat.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceHeartbeat.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueWifiCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueWifiCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueWifiCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbObjectStateHistoryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbObjectStateHistoryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbObjectStateHistoryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCompany.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCompany.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCompany.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestParameterCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestParameterCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestParameterCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueContact.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueContact.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueContact.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosItemBeverageCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosItemBeverageCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosItemBeverageCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramDetail.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramDetail.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramDetail.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueNoteCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueNoteCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueNoteCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2004.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2004.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2004.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentType.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentType.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentType.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetryLogPcsTelemetryLog.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetryLogPcsTelemetryLog.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetryLogPcsTelemetryLog.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject9.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject9.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject9.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapBeverage.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapBeverage.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapBeverage.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/ModelError.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/ModelError.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/ModelError.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapDisplaysByExternalCode.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapDisplaysByExternalCode.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapDisplaysByExternalCode.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeCreateTapServingSize.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeCreateTapServingSize.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeCreateTapServingSize.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSchedule.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSchedule.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSchedule.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackage.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackage.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackage.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentCategory.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentCategory.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentCategory.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageProducer.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageProducer.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageProducer.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimezoneCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimezoneCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimezoneCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountyAllLookup.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountyAllLookup.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountyAllLookup.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosLocationGroup.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosLocationGroup.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosLocationGroup.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageTypeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageTypeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageTypeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleActionCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleActionCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleActionCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueSecurity.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueSecurity.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueSecurity.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevicePourVersion.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevicePourVersion.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevicePourVersion.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapRfidReaderCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapRfidReaderCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapRfidReaderCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSensorTypeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSensorTypeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSensorTypeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbContactTypeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbContactTypeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbContactTypeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject11.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject11.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject11.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsConfigurationCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsConfigurationCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsConfigurationCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapBeverageWithRelated.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapBeverageWithRelated.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapBeverageWithRelated.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosFileCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosFileCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosFileCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordHistoryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordHistoryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordHistoryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationPerson.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationPerson.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationPerson.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosTransactionCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosTransactionCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosTransactionCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupPersonCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupPersonCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupPersonCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailer.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailer.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailer.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetSetPriceByBeverage.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetSetPriceByBeverage.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetSetPriceByBeverage.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2001.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2001.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2001.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceConfiguration.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceConfiguration.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceConfiguration.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillDetail.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillDetail.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillDetail.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateProvinceCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateProvinceCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateProvinceCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberAuditCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberAuditCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberAuditCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerQuery.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerQuery.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerQuery.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRfidReaderCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRfidReaderCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRfidReaderCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetStationCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetStationCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetStationCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceShadowLogCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceShadowLogCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceShadowLogCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFobConfigurationCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFobConfigurationCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFobConfigurationCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenuePersonCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenuePersonCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenuePersonCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetStation.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetStation.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetStation.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAction.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAction.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAction.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOvpnCacheCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOvpnCacheCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOvpnCacheCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEvent.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEvent.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEvent.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourDailyCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourDailyCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourDailyCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationPourFeature.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationPourFeature.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationPourFeature.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquet.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquet.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquet.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestParameter.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestParameter.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestParameter.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueue.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueue.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueue.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestSsRuleCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestSsRuleCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestSsRuleCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUserWithPerson.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUserWithPerson.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUserWithPerson.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupTypeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupTypeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupTypeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourFeatureCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourFeatureCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourFeatureCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetryLogCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetryLogCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetryLogCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOpcodeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOpcodeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOpcodeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordHistory.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordHistory.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordHistory.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSensorLogCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSensorLogCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSensorLogCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountry.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountry.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountry.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceStatus.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceStatus.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceStatus.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChange.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChange.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChange.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleStationPersonCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleStationPersonCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleStationPersonCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevice.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevice.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevice.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimer.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimer.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimer.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceStatusCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceStatusCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceStatusCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject2.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject2.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject2.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillingCycle.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillingCycle.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillingCycle.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestServingCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestServingCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestServingCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetryLog.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetryLog.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetryLog.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberAudit.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberAudit.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberAudit.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceHistoryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceHistoryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceHistoryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbShadowGroupCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbShadowGroupCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbShadowGroupCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChangeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChangeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChangeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetPrice.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetPrice.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetPrice.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsRuleCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsRuleCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsRuleCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBusinessFunction.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBusinessFunction.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBusinessFunction.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapBeverageCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapBeverageCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapBeverageCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceShadowCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceShadowCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceShadowCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbConstant.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbConstant.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbConstant.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetry.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetry.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetry.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceSpartanCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceSpartanCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceSpartanCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceEquipment.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceEquipment.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceEquipment.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapVolumeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapVolumeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapVolumeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceRequestStatusCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceRequestStatusCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceRequestStatusCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject10.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject10.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject10.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceBeverageCategoryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceBeverageCategoryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceBeverageCategoryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueDevice.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueDevice.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueDevice.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationPersonCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationPersonCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationPersonCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWifi.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWifi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWifi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceConnectivityLog.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceConnectivityLog.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceConnectivityLog.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageSpecialtyCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageSpecialtyCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageSpecialtyCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMyAlertCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMyAlertCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMyAlertCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbProfileCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbProfileCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbProfileCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsResultCode.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsResultCode.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsResultCode.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueBeverageCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueBeverageCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueBeverageCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertType.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertType.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertType.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueProcess.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueProcess.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueProcess.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourDaily.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourDaily.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourDaily.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbNoteCategory.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbNoteCategory.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbNoteCategory.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosAuth.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosAuth.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosAuth.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosAuthCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosAuthCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosAuthCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeListCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeListCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeListCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFupTypeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFupTypeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFupTypeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramFamily.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramFamily.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramFamily.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWifiCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWifiCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWifiCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueSecurityCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueSecurityCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueSecurityCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCleaningHistoryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCleaningHistoryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCleaningHistoryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse400.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse400.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse400.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceStatusWorkflowCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceStatusWorkflowCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceStatusWorkflowCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAddress.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAddress.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAddress.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageBrand.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageBrand.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageBrand.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPass.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPass.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPass.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceEquipmentCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceEquipmentCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceEquipmentCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageScheduleCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageScheduleCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageScheduleCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbShadowAttribute.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbShadowAttribute.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbShadowAttribute.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMember.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMember.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMember.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOvpnConnectivityStatus.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOvpnConnectivityStatus.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOvpnConnectivityStatus.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceChangeShadowAttributesParams.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceChangeShadowAttributesParams.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceChangeShadowAttributesParams.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCategorySize.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCategorySize.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCategorySize.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgram.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgram.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgram.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceRestartServicesParam.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceRestartServicesParam.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceRestartServicesParam.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapRfidReader.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapRfidReader.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapRfidReader.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/models.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/models.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/models.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOvpnConnectivityStatusCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOvpnConnectivityStatusCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOvpnConnectivityStatusCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse200.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse200.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse200.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationEquipmentCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationEquipmentCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationEquipmentCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSize.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSize.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSize.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapVolume.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapVolume.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapVolume.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse500.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse500.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse500.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBusinessFunctionCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBusinessFunctionCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBusinessFunctionCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosPostCharge.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosPostCharge.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosPostCharge.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestConfiguration.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestConfiguration.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestConfiguration.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2002RelatedStatus.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2002RelatedStatus.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2002RelatedStatus.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleVenuePerson.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleVenuePerson.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleVenuePerson.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbLoginHistory.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbLoginHistory.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbLoginHistory.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDistributor.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDistributor.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDistributor.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosPostChargeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosPostChargeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosPostChargeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueWifiSendToDevices.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueWifiSendToDevices.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueWifiSendToDevices.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttribute.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttribute.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttribute.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbScheduleDetailCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbScheduleDetailCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbScheduleDetailCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeMasterLogIncomingMessage.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeMasterLogIncomingMessage.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeMasterLogIncomingMessage.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimerQueueWithTimer.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimerQueueWithTimer.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimerQueueWithTimer.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFixedNote.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFixedNote.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFixedNote.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCustomer.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCustomer.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCustomer.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTextCodeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTextCodeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTextCodeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCompanyBeverage.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCompanyBeverage.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCompanyBeverage.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbLandingPage.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbLandingPage.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbLandingPage.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEventLogCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEventLogCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEventLogCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceWifiCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceWifiCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceWifiCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTapEditWithReprocessRequest.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTapEditWithReprocessRequest.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTapEditWithReprocessRequest.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationPourFeatureCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationPourFeatureCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationPourFeatureCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenue.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenue.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenue.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUserReactivate.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUserReactivate.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUserReactivate.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuest.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuest.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuest.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceVersionNext.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceVersionNext.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceVersionNext.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueueArchive.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueueArchive.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueueArchive.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateAll.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateAll.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateAll.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCustomerPersonCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCustomerPersonCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCustomerPersonCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertLog.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertLog.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertLog.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbLoginHistoryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbLoginHistoryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbLoginHistoryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleDeviceCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleDeviceCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleDeviceCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakePcsParameter.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakePcsParameter.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakePcsParameter.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRfidReader.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRfidReader.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRfidReader.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFreeUsePeriod.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFreeUsePeriod.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFreeUsePeriod.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2005.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2005.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2005.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillDetailCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillDetailCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillDetailCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceHistory.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceHistory.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceHistory.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosEmployee.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosEmployee.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosEmployee.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosVenue.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosVenue.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosVenue.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2002.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2002.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2002.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/CreateByUuidParams.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/CreateByUuidParams.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/CreateByUuidParams.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceChangeShadowAttributeParams.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceChangeShadowAttributeParams.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceChangeShadowAttributeParams.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestServing.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestServing.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestServing.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosLocation.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosLocation.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosLocation.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestSsRule.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestSsRule.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestSsRule.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosVenueCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosVenueCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosVenueCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertTracking.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertTracking.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertTracking.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageSpecialty.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageSpecialty.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageSpecialty.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChangeWithToken.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChangeWithToken.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChangeWithToken.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCustomerCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCustomerCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCustomerCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateAllCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateAllCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateAllCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosBeveragePriceCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosBeveragePriceCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosBeveragePriceCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationGroup.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationGroup.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationGroup.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbProfile.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbProfile.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbProfile.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRole.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRole.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRole.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceChangeStateBody.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceChangeStateBody.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceChangeStateBody.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationGroupCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationGroupCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationGroupCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMyAlert.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMyAlert.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMyAlert.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOvpnCache.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOvpnCache.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOvpnCache.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbProfileRole.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbProfileRole.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbProfileRole.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleStation.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleStation.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleStation.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupType.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupType.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupType.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFixedNoteCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFixedNoteCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFixedNoteCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosComplimentary.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosComplimentary.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosComplimentary.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroup.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroup.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroup.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCategoryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCategoryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCategoryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/GuestAllowanceBalance.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/GuestAllowanceBalance.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/GuestAllowanceBalance.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFreeUsePeriodCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFreeUsePeriodCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFreeUsePeriodCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCleaningHistory.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCleaningHistory.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCleaningHistory.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2002Rows.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2002Rows.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2002Rows.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosFile.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosFile.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosFile.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTap.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTap.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTap.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramFamilyCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramFamilyCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramFamilyCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUserChangePassword.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUserChangePassword.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUserChangePassword.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageDeliveryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageDeliveryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageDeliveryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCompanyCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCompanyCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCompanyCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPassCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPassCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPassCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbState.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbState.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbState.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateProvince.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateProvince.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStateProvince.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosEmployeeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosEmployeeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosEmployeeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbScheduleDetail.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbScheduleDetail.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbScheduleDetail.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceRequestCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceRequestCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceRequestCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeCategoryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeCategoryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeCategoryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject1.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject1.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject1.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCompanyBeverageCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCompanyBeverageCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCompanyBeverageCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueue.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueue.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueue.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScopePerson.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScopePerson.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScopePerson.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageSchedule.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageSchedule.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageSchedule.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject3.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject3.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject3.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillingCycleCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillingCycleCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillingCycleCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeUpdateTapServingSize.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeUpdateTapServingSize.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeUpdateTapServingSize.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUser.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUser.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUser.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountyAllCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountyAllCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountyAllCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueArchive.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueArchive.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueArchive.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSensorLog.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSensorLog.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSensorLog.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlert.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlert.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlert.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceShadowLog.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceShadowLog.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceShadowLog.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueCustomerCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueCustomerCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueCustomerCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationNote.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationNote.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationNote.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeMasterLog.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeMasterLog.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeMasterLog.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageProducerCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageProducerCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageProducerCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerSchedule.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerSchedule.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerSchedule.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbScheduleCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbScheduleCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbScheduleCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleDevice.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleDevice.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleDevice.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceLine.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceLine.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceLine.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTextStringCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTextStringCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTextStringCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapDisplay.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapDisplay.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapDisplay.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceHeartbeatCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceHeartbeatCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceHeartbeatCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberArchive.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberArchive.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberArchive.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimerQueueCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimerQueueCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimerQueueCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetHistory.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetHistory.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetHistory.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceVersionCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceVersionCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceVersionCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetPriceCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetPriceCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetPriceCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosStationCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosStationCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosStationCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupPerson.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupPerson.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupPerson.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueContactCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueContactCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueContactCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsRule.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsRule.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsRule.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueType.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueType.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueType.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbNameAlias.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbNameAlias.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbNameAlias.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbNameAliasCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbNameAliasCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbNameAliasCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceVersion.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceVersion.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceVersion.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillDetailUpdateByIds.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillDetailUpdateByIds.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBillDetailUpdateByIds.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueWifi.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueWifi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueWifi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleStationCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleStationCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleStationCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceRequest.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceRequest.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceRequest.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceWifi.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceWifi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceWifi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestConfigurationCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestConfigurationCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestConfigurationCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeList.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeList.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeList.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModule.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModule.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModule.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbContactType.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbContactType.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbContactType.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceBeverageCategory.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceBeverageCategory.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceBeverageCategory.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEventLog.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEventLog.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEventLog.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse200Rows.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse200Rows.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse200Rows.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbNoteCategoryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbNoteCategoryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbNoteCategoryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentCategoryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentCategoryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentCategoryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueCustomerEditReplaceCustomer.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueCustomerEditReplaceCustomer.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueCustomerEditReplaceCustomer.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbReprocessingLogCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbReprocessingLogCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbReprocessingLogCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTextCode.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTextCode.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTextCode.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountyAllLookupCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountyAllLookupCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCountyAllLookupCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceConfigurationCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceConfigurationCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceConfigurationCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleCustomerPerson.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleCustomerPerson.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleCustomerPerson.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbShadowGroup.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbShadowGroup.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbShadowGroup.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStation.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStation.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStation.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsConfiguration.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsConfiguration.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsConfiguration.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTextString.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTextString.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTextString.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageRuleCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageRuleCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageRuleCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueWifiWithWifi.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueWifiWithWifi.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueWifiWithWifi.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageBeverageCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageBeverageCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageBeverageCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbReprocessingLog.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbReprocessingLog.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbReprocessingLog.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScopePersonCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScopePersonCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScopePersonCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleCustomerPersonCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleCustomerPersonCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleCustomerPersonCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFupType.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFupType.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbFupType.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageBeverage.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageBeverage.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageBeverage.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbKegTypeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbKegTypeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbKegTypeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetChangeMultiple.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetChangeMultiple.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetChangeMultiple.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPerson.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPerson.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPerson.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeStagingImport.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeStagingImport.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeStagingImport.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourVersion.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourVersion.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourVersion.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCustomerPerson.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCustomerPerson.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbCustomerPerson.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageVarietal.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageVarietal.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageVarietal.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbProfileRoleCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbProfileRoleCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbProfileRoleCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCategory.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCategory.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCategory.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbShadowAttributeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbShadowAttributeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbShadowAttributeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationStationLock.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationStationLock.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationStationLock.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleStationPerson.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleStationPerson.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleStationPerson.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTapCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTapCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTapCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosLocationGroupCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosLocationGroupCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosLocationGroupCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeCreateUnhooked.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeCreateUnhooked.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeCreateUnhooked.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGroupCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChangeNewPassword.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChangeNewPassword.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChangeNewPassword.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2003.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2003.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2003.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerQueryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerQueryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerQueryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageVarietalCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageVarietalCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageVarietalCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertTrackingCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertTrackingCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertTrackingCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowance.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowance.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowance.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevicePourVersionCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevicePourVersionCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevicePourVersionCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueueCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueueCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueueCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueueArchiveCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueueArchiveCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueueArchiveCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosTemplate.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosTemplate.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosTemplate.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject8.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject8.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject8.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosItemBeverage.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosItemBeverage.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosItemBeverage.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAuditCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAuditCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAuditCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceTelemetryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimerCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimerCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimerCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPersonCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPersonCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPersonCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleVenuePersonCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleVenuePersonCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleVenuePersonCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2003Device.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2003Device.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2003Device.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourFeature.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourFeature.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourFeature.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapBulkUpdate.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapBulkUpdate.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapBulkUpdate.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageType.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageType.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageType.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueTypeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueTypeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueTypeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueArchiveCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueArchiveCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueArchiveCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramDetailCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramDetailCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramDetailCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2002ModuleStations.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2002ModuleStations.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2002ModuleStations.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimezone.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimezone.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimezone.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEventCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEventCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEventCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertLogCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertLogCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertLogCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBeverageCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleGroupPersonCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleGroupPersonCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleGroupPersonCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorCode.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorCode.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorCode.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipment.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipment.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipment.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject5.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject5.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject5.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceFunction.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceFunction.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceFunction.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosLocationCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosLocationCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosLocationCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTap.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTap.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTap.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/GuestAllowanceBalanceData.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/GuestAllowanceBalanceData.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/GuestAllowanceBalanceData.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimerQueue.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimerQueue.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTimerQueue.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeBulkReplace.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeBulkReplace.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapServingSizeBulkReplace.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject7.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject7.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject7.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosTemplateCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosTemplateCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPosTemplateCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDistributorCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDistributorCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDistributorCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevicePutParameters.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevicePutParameters.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevicePutParameters.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueueAnsibleCallback.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueueAnsibleCallback.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbActionQueueAnsibleCallback.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeMasterLogCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeMasterLogCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeMasterLogCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject4.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject4.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject4.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosStation.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosStation.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosStation.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScheduleCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScheduleCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScheduleCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosComplimentaryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosComplimentaryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosComplimentaryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScope.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScope.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMailerScope.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertTypeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertTypeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAlertTypeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeCategory.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeCategory.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAttributeCategory.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2003ModuleDevices.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2003ModuleDevices.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineResponse2003ModuleDevices.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOpcode.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOpcode.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbOpcode.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMyAlertUpdateParams.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMyAlertUpdateParams.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbMyAlertUpdateParams.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/GuestAllowanceBalanceDataErr.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/GuestAllowanceBalanceDataErr.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/GuestAllowanceBalanceDataErr.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbObjectStateHistory.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbObjectStateHistory.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbObjectStateHistory.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceRequestStatus.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceRequestStatus.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbGuestAllowanceRequestStatus.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsProgramCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUserCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUserCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbUserCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentTypeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentTypeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEquipmentTypeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject6.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject6.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject6.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakePcsParameterCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakePcsParameterCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakePcsParameterCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapDisplayCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapDisplayCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbTapDisplayCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeStagingImportCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeStagingImportCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeStagingImportCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueBeverage.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueBeverage.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueBeverage.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEventLogReprocessByTapAndDatesRequest.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEventLogReprocessByTapAndDatesRequest.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbEventLogReprocessByTapAndDatesRequest.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourVersionCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourVersionCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourVersionCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationEquipment.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationEquipment.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationEquipment.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/JwtToken.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/JwtToken.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/JwtToken.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetHistoryCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetHistoryCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbBanquetHistoryCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceFunctionCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceFunctionCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceFunctionCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenuePerson.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenuePerson.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenuePerson.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationNoteCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationNoteCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbStationNoteCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject12.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject12.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject12.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAudit.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAudit.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAudit.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberArchiveCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberArchiveCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbWeworkMemberArchiveCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChangeEmail.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChangeEmail.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPasswordChangeEmail.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueCustomer.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueCustomer.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueCustomer.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceStatusWorkflow.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceStatusWorkflow.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceStatusWorkflow.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbScheduleExtendSsSchedule.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbScheduleExtendSsSchedule.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbScheduleExtendSsSchedule.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject13.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject13.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/InlineObject13.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueProcessResponse.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueProcessResponse.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/IntakeErrorQueueProcessResponse.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPour.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPour.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPour.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbLandingPageCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbLandingPageCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbLandingPageCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAddressCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAddressCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbAddressCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceSpartan.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceSpartan.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDeviceSpartan.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueNote.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueNote.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbVenueNote.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbConstantCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbConstantCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbConstantCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageRule.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageRule.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsPackageRule.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevicePushParameters.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevicePushParameters.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbDevicePushParameters.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleAction.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleAction.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbRoleAction.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsResultCodeCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsResultCodeCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbSsResultCodeCounted.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosBeveragePrice.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosBeveragePrice.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPosBeveragePrice.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleActivateResponse.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleActivateResponse.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbModuleActivateResponse.d.ts" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourCounted.js.map" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourCounted.js" />
+        <option value="$PROJECT_DIR$/bower_components/sestra-web/model/DbPourCounted.d.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="SW-5118: check Taps for button &quot;assign stations&quot;" />
+    <MESSAGE value="Merge branch 'SW-5132' into testing&#10;&#10;# Conflicts:&#10;#&#9;src/app/less/portal_pages.less" />
+    <MESSAGE value="SW-5133: Device screen: Environment change is allowed only to devices mapped to a station" />
+    <MESSAGE value="Merge branch 'SW-5133' into testing&#10;&#10;# Conflicts:&#10;#&#9;src/app/less/portal_pages.less" />
+    <MESSAGE value="SW-5133: fixed actionQueue status" />
+    <MESSAGE value="SW-5133: fixed tooltip." />
+    <MESSAGE value="SW-5133: disable change env select." />
+    <MESSAGE value="Merge branch 'SW-5133' into staging&#10;&#10;# Conflicts:&#10;#&#9;src/app/less/portal_pages.less" />
+    <MESSAGE value="SW-5133: tooltip fix." />
+    <MESSAGE value="SW-5221: Hotfix. Device screen. Unable to create a new device." />
+    <MESSAGE value="Merge branch 'SW-5176' into testing&#10;&#10;# Conflicts:&#10;#&#9;src/app/main/station/tap/tap-component.js" />
+    <MESSAGE value="testing-with-gg-logs: added update shadow log." />
+    <MESSAGE value="testing-with-gg-logs: remove shadow-gg logs." />
+    <MESSAGE value="SW-5413: Hotfix. Activity Log. Collapse buttons do  not work" />
+    <MESSAGE value="SW-5430: Station - Beverage: Issues with Interupted pour. Validation message absent" />
+    <MESSAGE value="SW-5430: code refactoring" />
+    <MESSAGE value="SW-5432: Hotfix: Activity Log on a phone - tooltip on Opcode is not shown" />
+    <MESSAGE value="SW-5406: round fixes for keg type" />
+    <MESSAGE value="SW-5451: Hotfix. Activity log phone display.  Device is shown incorrectly" />
+    <MESSAGE value="SW-5406: applied rounding only to oz." />
+    <MESSAGE value="SW-5406: code cleanup" />
+    <MESSAGE value="SW-5406: fixed round pour time for the all analytic charts." />
+    <MESSAGE value="SW-5495: FUP  Screen. Allow overlapping periods." />
+    <MESSAGE value="SW-5526: User screen. Make &quot;Login&quot; field editable" />
+    <MESSAGE value="SW-5453: FUP. Screen. Incorrect message on the pop-up" />
+    <option name="LAST_COMMIT_MESSAGE" value="SW-5453: FUP. Screen. Incorrect message on the pop-up" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="123" width="1156" height="934" key="CommitChangelistDialog2" timestamp="1584438041504">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="491" y="123" width="1156" height="934" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1584438041504" />
+    <state x="743" y="311" width="416" height="504" key="FileChooserDialogImpl" timestamp="1589443926704">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="416" height="504" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1589443926704" />
+    <state x="699" y="266" width="512" height="585" key="RollbackChangesDialog" timestamp="1582122199393">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="699" y="266" width="512" height="585" key="RollbackChangesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1582122199393" />
+    <state x="100" y="127" width="1720" height="853" key="VCS.FileHistoryDialog" timestamp="1584522691998">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="VCS.FileHistoryDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584522691998" />
+    <state x="608" y="285" width="732" height="598" key="find.popup" timestamp="1589445330147">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="608" y="285" width="732" height="598" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1589445330147" />
+    <state x="624" y="252" key="run.anything.popup" timestamp="1582124087049">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="252" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1582124087049" />
+  </component>
+</project>

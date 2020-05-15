@@ -1,0 +1,16 @@
+# Folders
+.idea
+.vs
+.git
+.tmp
+bower_components/
+dist/
+documentation/
+gulp/
+node_modules/
+coverage/
+e2e/
+
+protractor.conf.js
+karma.conf.js
+*.min.js
